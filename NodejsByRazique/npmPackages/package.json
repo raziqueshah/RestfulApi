@@ -1,0 +1,17 @@
+{
+  "name": "npmpackages",
+  "version": "1.0.0",
+  "description": "razique node tuts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "razique shah",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "nodemon": "^2.0.20",
+    "validator": "^13.7.0"
+  }
+}
